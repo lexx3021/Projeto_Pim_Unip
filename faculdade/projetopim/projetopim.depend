@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636302950 source:/home/alex/Documentos/faculdade/projetopim/login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
